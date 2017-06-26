@@ -1,0 +1,33 @@
+##How did a diff between two versions of a file help you see the bug that was introduced?##
+It gave me a visual output that showed me the only differences in the big js file.
+It was a lot easier to navigate throught it than having to go through a 1000+ line
+essay.
+##How could having easy access to the entire history of a file make you a more efficient
+programmer in the long term?##
+It can help us by showing us the changes in the code. Maybe when we started we
+were not that good of programmers but as time goes by and we keep practicing
+our code should reflect all the new things we have learnt.
+##What do you think are the pros and cons of manually choosing when to create a
+commit,like you do in Git, vs having versions automatically saved, like Google
+doc does?/##
+The pros of being able to do the commits manually in Git is that it gives us
+the power to save the document when we feel it is ready to be saved.If it was
+saved automatically it would save several versions, a lot of those with code that
+is not finished and/or code that we do not want to say just yet.
+##Why do you think some version control systems, like Git,allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?##
+Git allows to save multiple files in one commit because it's a software developer
+tool. Some programs have separate files that form one program so it makes sense
+to save several files at once.
+##How can you use the commands git log and git diff to view the history of files?##
+the git log command allows you to see all the versions saved with the message
+explaining what each commit is for, the git diff command allows you to see
+the changes made between two commits
+##How might using version control make you more confident to make changes that
+could break something?##
+Version control allows us to save multiple versions of our projects so if for
+some reason we add or remove a line of code that will break our code, we can always
+revert to the previous version that ran perfectly, that is assuming that we saved.
+##How do you want to use Git?##
+I would like to start by being able track the notes I'm gonna be taking with Git
+##
