@@ -20,3 +20,10 @@ to see the changes done by each user and able to go back to different states of 
 document. The fact that it saves itself automatically would make it harder as everything
 would get updated every few seconds or so; even things I probably wouldn't want to
 save.##
+##When would you want to make changes in a separate branch rather than directly in master?
+ What benefits does each approach have?##
+ You would want to make a change in a separate branch when you don't want for that
+ change to affect your master branch. It's benefitial in that it does not modify
+ the master branch and allows us to modify things without affecting our master
+ "main" branch.
+ ##
