@@ -1,1 +1,2 @@
 ##When would you want to create a remote repository rather than keeping all your work local?##
+You would want to create a remote repository when you want to have a back up of your code or when you want to collaborate with others so tht they can fork your code and make changes of their own and then push them back .
